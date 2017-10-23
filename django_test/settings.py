@@ -41,7 +41,7 @@ DJANGO_APPS = [
 ]
 
 LOCAL_APPS = [
-    'quickstart',
+    # 'quickstart',
 ]
 
 THIRD_PARTY_APPS = [
